@@ -9,5 +9,5 @@ Note: If you are serving your web app in a path other than the root, change the
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
     
-Web App For Zombel https://github.com/peeweesusername/zombel/
+Web App For Zombel https://peeweesusername.github.io/zombel/
 
